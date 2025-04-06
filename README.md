@@ -20,13 +20,14 @@ These bookmarklets are handy for quickly removing popups, unlocking hidden conte
      ![image](https://github.com/user-attachments/assets/20e7d60b-b072-4242-8436-bcb7f86874ed)
 
 
-
 4. **Save the bookmark**:
    - Save the bookmark in your bookmarks bar or another convenient folder.
 
 5. **Use the bookmarklet**:
    - When you're on a page where you'd like to bypass limitations, simply click on the bookmark you created. The script will run and remove the restrictions on the page.
 
+## QOL
+There is not much I can do about the ease-of-use of the bookmarklets. You're required to click the bookmarklet in your bookmarks bar in order the scripts to run. As for the permanency of the scripts, most should take effect throughout all of your site as long as you dont close the tab and reopen it.
 
 ## IMPORTANT NOTES
 

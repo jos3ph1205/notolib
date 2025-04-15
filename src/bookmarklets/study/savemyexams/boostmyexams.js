@@ -51,14 +51,13 @@
 
    injectUI();
 
-   if (!document.querySelector("#SaveMyExamsNotesAnswers")) {
-      const style = document.createElement("style");
-      style.id = "SaveMyExamsNotesAnswers";
-      style.textContent = `
+   if (!document.querySelector("#BoostMyExamsStyles")) {
+      const style = `
          [class*='StaticBanner_banner'] {
             display: none !important;
          }
       `;
-      document.head.appendChild(style);
+
+      document.head.insertAdjacentHTML();
    }
 })();

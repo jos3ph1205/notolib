@@ -55,7 +55,7 @@
       const style = document.createElement("style");
       style.id = "SaveMyExamsNotesAnswers";
       style.textContent = `
-         [class*='FeatureSliderCTA_container__'] {
+         [class*='StaticBanner_banner'] {
             display: none !important;
          }
       `;

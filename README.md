@@ -7,24 +7,23 @@ These bookmarklets are handy for quickly removing popups, unlocking hidden conte
 ## How to Use
 
 1. **Open your browser's bookmark list**:
-   - Press `CTRL + SHIFT + O` (or `CMD + SHIFT + O` on macOS) to open the bookmarks manager.
+    - Press `CTRL + SHIFT + O` (or `CMD + SHIFT + O` on macOS) to open the bookmarks manager.
 
 2. **Create a new bookmark**:
-   - Look for a button with **three dots** in your bookmark manager or simply create a new bookmark from your browser's interface. 
+    - Look for a button with **three dots** in your bookmark manager or simply create a new bookmark from your browser's interface.
 
 3. **Paste the bookmarklet code**:
-   - Head to any script in this repo that you want to use
-   - Copy the code
-     ![image](https://github.com/user-attachments/assets/fbd58425-d4db-4bb8-8d40-0fabf7150cc9)
-   - Paste it into the URL field of your Create Bookmark popup and give your bookmarklet any name you want
-     ![image](https://github.com/user-attachments/assets/20e7d60b-b072-4242-8436-bcb7f86874ed)
-
+    - Head to any script in this repo that you want to use
+    - Copy the code
+      ![image](https://github.com/user-attachments/assets/fbd58425-d4db-4bb8-8d40-0fabf7150cc9)
+    - Paste it into the URL field of your Create Bookmark popup and give your bookmarklet any name you want
+      ![image](https://github.com/user-attachments/assets/20e7d60b-b072-4242-8436-bcb7f86874ed)
 
 4. **Save the bookmark**:
-   - Save the bookmark in your bookmarks bar or another convenient folder.
+    - Save the bookmark in your bookmarks bar or another convenient folder.
 
 5. **Use the bookmarklet**:
-   - When you're on a page where you'd like to bypass limitations, simply click on the bookmark you created. The script will run and remove the restrictions on the page.
+    - When you're on a page where you'd like to bypass limitations, simply click on the bookmark you created. The script will run and remove the restrictions on the page.
 
 ## QOL
 There is not much I can do about the ease-of-use of the bookmarklets. You're required to click the bookmarklet in your bookmarks bar in order the scripts to run. As for the permanency of the scripts, most should take effect throughout all of your site as long as you dont close the tab and reopen it.

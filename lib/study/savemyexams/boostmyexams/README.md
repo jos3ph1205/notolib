@@ -22,4 +22,4 @@ javascript:(s=>{(s=document.createElement("script")).src="https://cdn.jsdelivr.n
 2. Paste the code above into the **URL** field
 3. Name it anything you like
 
-[📖 How to make a bookmarklet →](../../../../guides/Creating%20a%20Bookmarklet.md)
+[How do I make a bookmarklet?](../../../../guides/Creating%20a%20Bookmarklet.md)

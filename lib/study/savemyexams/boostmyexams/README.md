@@ -11,7 +11,7 @@ For Tampermonkey or Violentmonkey:
 *No extensions? No problem.*
 
 #### Option 1: Manual Drag
-**Drag the snippet below** into your bookmarks bar:
+**Select and drag the snippet below** into your bookmarks bar:
 
 ```javascript
 javascript:(s=>{(s=document.createElement("script")).src="https://cdn.jsdelivr.net/gh/jos3ph1205/minipass@main/lib/study/savemyexams/boostmyexams/boostmyexams.js?"+Date.now(),document.body.appendChild(s)})();

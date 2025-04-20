@@ -1,8 +1,7 @@
 ## About
 BoostMyExams lets you view as many notes and answers as you need — **No Limits**, No BS
 
-## 🚀 Install
-
+## Install
 ### Userscript
 For Tampermonkey or Violentmonkey:
 

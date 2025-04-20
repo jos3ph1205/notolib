@@ -1,8 +1,6 @@
 ## About
 BoostMyExams lets you view as many notes and answers as you need — **No Limits**, No BS
 
----
-
 ## 🚀 Install
 
 ### Userscript
@@ -10,10 +8,8 @@ For Tampermonkey or Violentmonkey:
 
 [![Install BoostMyExams](https://img.shields.io/badge/Install%20BoostMyExams-Userscript-000000?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://github.com/jos3ph1205/notolib/raw/refs/heads/main/lib/study/savemyexams/boostmyexams/boostmyexams.user.js)
 
----
-
 ### Bookmarklet
-No extensions? No problem.
+*No extensions? No problem.*
 
 #### Option 1: Manual Drag
 **Drag the snippet below** into your bookmarks bar:
